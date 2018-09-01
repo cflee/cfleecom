@@ -17,3 +17,16 @@ command = "hugo -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.48"
+
+# redirect the domain aliases to canonical domain
+[[redirects]]
+from = "https://cflee.net/*"
+to = "https://www.cflee.com/:splat"
+status = 301
+force = yes
+
+[[redirects]]
+from = "https://www.cflee.net/*"
+to = "https://www.cflee.com/:splat"
+status = 301
+force = yes
