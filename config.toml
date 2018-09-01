@@ -4,9 +4,27 @@ title = "cflee.com"
 theme = "hyde-hyde"
 googleAnalytics = "UA-53003432-1"
 
-# hyde-hyde theme
+# hyde / hyde-hyde theme
+[params]
+author = "cflee"
+description = " "
+dateformat = "2 Jan 2006"
+
 [params.social]
+email = "myself@cflee.net"
 facebook = "cflee"
 github = "cflee"
 keybase = "cflee"
 linkedin = "chiangfong"
+
+[[menu.main]]
+name = "About"
+identifier = "about"
+weight = 100
+url = "/about/"
+
+[[menu.main]]
+name = "Posts"
+identifier = "posts"
+weight = 200
+url = "/posts/"
