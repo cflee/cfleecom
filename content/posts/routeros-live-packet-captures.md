@@ -2,6 +2,8 @@
 title: "Live packet captures using MikroTik RouterOS and Wireshark"
 date: 2015-07-26
 draft: false
+aliases:
+  - /post/live-packet-captures-using-mikrotik-routeros-and-wireshark
 ---
 
 This is a quick post to let Google pick it up. You know how the MikroTik wiki and forums are, plus how Stack Overflow is.. very confusing.

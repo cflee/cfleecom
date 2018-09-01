@@ -2,6 +2,8 @@
 title: "MikroTik RouterOS on tagged M1 Fibre"
 date: 2016-06-08
 draft: false
+aliases:
+  - /post/mikrotik-routeros-on-m1-fibre-tagged
 ---
 
 If you have a recently-connected M1 fibre connection, you should be using the black Huawei ONT, with optional voice port for digital voice, and an untagged internet port on port 1. This guide is not for you.
