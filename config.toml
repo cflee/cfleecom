@@ -1,0 +1,12 @@
+baseURL = "https://www.cflee.com/"
+languageCode = "en-us"
+title = "cflee.com"
+theme = "hyde-hyde"
+googleAnalytics = "UA-53003432-1"
+
+# hyde-hyde theme
+[params.social]
+facebook = "cflee"
+github = "cflee"
+keybase = "cflee"
+linkedin = "chiangfong"
