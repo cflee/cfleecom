@@ -23,10 +23,10 @@ HUGO_VERSION = "0.48"
 from = "https://cflee.net/*"
 to = "https://www.cflee.com/:splat"
 status = 301
-force = yes
+force = true
 
 [[redirects]]
 from = "https://www.cflee.net/*"
 to = "https://www.cflee.com/:splat"
 status = 301
-force = yes
+force = true
