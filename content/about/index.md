@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2018-09-01
-# exclude from index
+# exclude from index, and use special layout without meta, etc.
 type: about
 ---
 
