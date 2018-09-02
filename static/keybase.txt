@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/cflee
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cflee.com
+  * I am cflee (https://keybase.io/cflee) on keybase.
+  * I have a public key with fingerprint 08BC FC0D 42EF 5172 D209  553E 73AC 7EB6 3CEA 2ACA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e27907abc08a1de903ea403540bdd3f64beefa8e20bdfb02486a804bff1f3e9e0a",
+            "fingerprint": "08bcfc0d42ef5172d209553e73ac7eb63cea2aca",
+            "host": "keybase.io",
+            "key_id": "73ac7eb63cea2aca",
+            "kid": "0101e27907abc08a1de903ea403540bdd3f64beefa8e20bdfb02486a804bff1f3e9e0a",
+            "uid": "df49d722555e6e504c1001fe3b1e4519",
+            "username": "cflee"
+        },
+        "service": {
+            "hostname": "cflee.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1461641380,
+    "expire_in": 157680000,
+    "prev": "785a3d4beeb64393de9dc72bf7354f0e2bc057c16032ec7cd55eb523907f0abc",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIbAnicrVJdSBRRGF0zFUUjEVytrBxEsGy98z+zBZplEWUhCQpp68ydb3T82dlm
+ZzXbgiLQhxLBKIOEolzCkkIKexBNJfFBQzKrF0kDo5cCKQpNyu5IQQ89dl8u33fP
+Ofc7h+9ZUrQrIeqw+xaefdxiRU2MdIRcZVvnu8OUamrNlDdM1cHaBfUaBG1fnaFR
+XgrRiAZGlJGoqBhJCq2BjFhQOMTyHFI1jdUFTgXQFQkYUusqYjhJUCTEqbpO6yzI
+gBQql9INfzVYAcvw246spGIdI41jQOdpkdEYJPM8CyKrYBFUgcWgMAp2iDVm0GGQ
+4VQlCB7DJD1S+NbG+wf+P88dWpPTdE7WRIbheR4E4BGHaYRoHViVBo6nZQcYBMuv
+NABBY70egDqXS5FWo4HBSdWx8fezB5sNhBWwTNvEZj1p19h2IOh1aHZzwME1ger7
+reBTDb9GEiSMRrCChumnvDRBYttwJGlOoAWOZiWUS8HpgGGBz3AQvChIiBznH2h0
+8pJ4hdUc46rAsTJLUtGwyKi6SGLRETAkLF7EtIBYBrCINeJX5RmW5KgjkiTleDrl
+N4m2SOZUqolm0Kj2K3bIIo5HhyvWu6ISXLEx65zVciXEb/yzcO6OuNVgZ3+4+y3c
+KVo5u7znSnFlX2zrAu8pGGOWA7PXplMPJTzsvfFoTHo3ccB7u+h1pHnLj/hvc3Gh
+tp4jrq9tX6byB67OFbVkjywwTckF8qBnU/5S+UJpdml5zpttJRcm0xJ3Da7Y48r4
+C7tzbqa7xZ2x27pYdbx18aX8s6sn/f7l4oKBSHza9qMx83vvjpglQz3Xu3LueZYP
+fh/+nDU59SCvOzQaXZz4YR893QdP0qPceScmM5PdZZGq5ULp2AZT+5rUbta+mrxp
+pFRW9Ve0n0/aceYjnLyU8Wk0c3Cmf2mea0p57ultKBSepkQi+8t3bh5ajAmHs1bn
+xrJTo2vfJ/p/AeNePz4=
+=psx4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cflee
+
+==================================================================
