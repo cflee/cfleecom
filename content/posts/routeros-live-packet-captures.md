@@ -2,6 +2,8 @@
 title: "Live packet captures using MikroTik RouterOS and Wireshark"
 date: 2015-07-26
 draft: false
+tags:
+- mikrotik routeros
 aliases:
   - /post/live-packet-captures-using-mikrotik-routeros-and-wireshark
 ---
