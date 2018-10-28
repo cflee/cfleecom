@@ -82,12 +82,15 @@ However, the same can't be said for EC2/SSM/etc actions, other than [Session Man
 ## Conclusion
 You should check very carefully if your SSM-managed instances have more permissions to S3 buckets than you thought they had, if you set up instances for SSM Agent using the `AmazonEC2RoleforSSM` AWS-managed policy.
 
-These are almost definitely not the only two ways to deal with this issue, and which is the most appropriate approach will vary with how you're using IAM in your AWS accounts.
-I think you might be able to use a permission boundary on the role to limit the AWS-managed policy, for one, but I haven't tested that.
-YMMV!
+I ended up taking the latter option and just combining all the permissions in the policy with the S3 `GetObject/PutObject` actions limited to the specific AWS SSM buckets and my logging bucket on a specific key-prefix respectively.
+This decision will need to be revisited if I end up using (cross-account?) roles more, if the logging bucket ends up in a different account from the instances, or if I don't need user accounts to be able to access the bucket directly.
 
-While finishing up this post, I realised that someone has opened an PR [awsdocs/aws-systems-manager-user-guide#41](https://github.com/awsdocs/aws-systems-manager-user-guide/pull/41) just three days ago to propose adding a warning note to the SSM docs on the wildcard access to S3 buckets.
-An employee responded and indicated that they would open an internal ticket to get the doc team to look at it in more detail.
-Let's see if they incorporate this or similar content into their docs in future.
+These are definitely not the only two ways to deal with this issue, and which is the most appropriate approach will vary with how you're using IAM in your AWS accounts.
+For example, I think a permission boundary on the role might be a way to scope down the S3 wildcard in the AWS-managed policy, but I haven't had a chance to test that.
 
-There's also an [AWS Developer Forums post from mid-Sep](https://forums.aws.amazon.com/thread.jspa?messageID=868804&#868804) asking about this issue, but the employee that replied essentially said that everything is needed for some SSM use case or another, and they (support?) might be able to help craft a scoped down policy.
+---
+
+While finishing up this post, I realised that someone opened a PR ([awsdocs/aws-systems-manager-user-guide#41](https://github.com/awsdocs/aws-systems-manager-user-guide/pull/41)) just three days ago to propose adding a warning note to the SSM docs on the wildcard access to S3 buckets.
+An AWS employee responded and indicated that they would open an internal ticket to get the doc team to look at it in more detail.
+
+There's also an [AWS Developer Forums post from mid-Sep](https://forums.aws.amazon.com/thread.jspa?messageID=868804&#868804) asking about this issue, but the AWS employee that replied essentially said that everything is needed for some SSM use case or another, and they (Support?) might be able to help craft a scoped down policy for specific usage.
