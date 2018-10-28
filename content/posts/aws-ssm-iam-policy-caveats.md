@@ -48,10 +48,14 @@ Therefore, the instances with this role/profile can read and (over)write objects
 
 This might be an unexpected result, given the intuitive "deny by default" understanding, especially if you've been relying on explicit allow statements in inline or managed policy attached to users/groups/roles, instead of using explicit deny statements in bucket policy.
 
-## Non-problems
-At this point, we should take a quick pause and figure out what we're *not* trying to address here:
+## Non-goals
+We should pause and figure out what we're _not_ trying to address here:
 
-- Any instance, and any user/software on any instance that can access the metadata service to obtain credentials, can write or overwrite an arbitrary object in the bucket/key-prefix that you use to store SSM Agent output or logs.
+Any SSM-managed instance, and any user/software on any instance that can access the instance metadata service to obtain credentials, can write or overwrite any arbitrary object in the S3 buckets/key-prefixes that you use to store SSM Agent run output or logs.
+
+Integrity is probably more of a concern for Session Manager session logs, but they aren't going to be absolutely tamperproof because the logs are being created and uploaded from the instance anyway.
+The risk of overwriting should be mitigated by bucket object versioning, entirely missing logs with shipped Linux audit logs, etc.
+(If you're really paranoid and want to do off-host recording you'll probably want to use something like [Gravitational Teleport in recording proxy mode](https://gravitational.com/teleport/docs/architecture/#audit-log) instead, but there are some different security trade-offs there.)
 
 ## Solutions?
 I don't think I know all the possible ways of dealing with this, but here are some ideas.
