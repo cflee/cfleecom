@@ -1,7 +1,7 @@
 ---
 title: "Roadtripping in the U.S., a Singaporean's perspective"
-date: 2019-05-25
-draft: true
+date: 2019-05-28
+draft: false
 tags:
 - travel
 ---
