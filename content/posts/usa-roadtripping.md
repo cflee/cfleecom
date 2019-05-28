@@ -6,7 +6,8 @@ tags:
 - travel
 ---
 I recently spent 12 days on a road trip through Utah and Arizona.
-More details on that in another post, but here's a brain dump of what I learnt (or was surprised by!) about road trips in the U.S.
+More details on that in another post, but here's a brain dump of what I learnt (or was surprised by!) about road trips in the U.S. 
+I don't know if anyone will ever find this useful, but I know I will want to remind myself about some of these things before any future road trips there.
 
 ## Rules of the road
 
