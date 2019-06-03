@@ -1,13 +1,13 @@
 ---
-title: "Roadtripping in the U.S., a Singaporean's perspective"
-date: 2019-05-28
+title: "Roadtripping in the U.S."
+date: 2019-06-02
 draft: false
 tags:
 - travel
 ---
 I recently spent 12 days on a road trip through Utah and Arizona.
-More details on that in another post, but here's a brain dump of what I learnt (or was surprised by!) about road trips in the U.S. 
-I don't know if anyone will ever find this useful, but I know I will want to remind myself about some of these things before any future road trips there.
+More details on that in another post, but here's a brain dump of what I learnt (or was surprised by!) about road tripping in the U.S.
+It's just the one trip so it's not exactly distilled wisdom, and I don't know if anyone will ever find this useful, but I know I will want to remind myself about some of these things before any future road trips, so I might as well post it.
 
 ## Rules of the road
 
@@ -48,7 +48,7 @@ Things that surprised me and were more variable across states:
 ## Trip planning
 
 The distances are vast.
-The possibly apocryphal adage that Americans think a hundred years is a long time, and the English think a hundred miles is a long way... rings with a bit of truth.
+The possibly apocryphal adage that Americans think a hundred years is a long time, and the English think a hundred miles is a long way... rings with some truth.
 
 Where possible, you should try to manage your plans such that you don't spend _too_ much of your trip time driving or in the car.
 It's a balance between seeing more places and spending more time at fewer places.
@@ -66,52 +66,62 @@ This might be less of an issue for people on trips with >2 drivers, because then
 
 Figuring out weather on the roads can be a bit tricky, especially off the interstates, due to the varying terrain.
 I was surprised by snow on Highway 12 between Boulder, UT and Torrey, UT, when the forecasts for the neighbouring towns/area was just rain showers - well, turns out that that part of Hwy 12 goes above 9000 ft in elevation, and up there it just happened to be around 30 deg F and the precipitation turned into snow.
+I learnt then that snow doesn't stick to your windscreen like rain does, which is pretty cool, but the real hazard is in snow that's blowing in other directions.
 
 Snow chains are a hassle.
-For instance, if you are visiting Yosemite NP or any other parts of the Sierra Nevada mountains and there's even a possibility of snow or chain controls, it becomes quite a mess.
+Anytime there's even a possibility of snow or chain controls, like in the Sierra Nevadas anytime before summer, it becomes quite a headache.
 I didn't deal with chains this trip but apparently you need them to be exact size, and given that rental car companies do _not_ promise you any particular car model (or even car category) in advance, it's difficult to get chains in advance.
 But other than that, I think depending on the region the rental cars may just usually have the basic M+S tyres.
 
 Route/Highway pretty much means any sort of long road; what we think of as highway/expressway (controlled-access) is more of freeway/interstate.
 Some highways might be limited-access but possibly only for some sections.
 
-## Electronic tools
+## Trip planning tools
 
-Trip planning before/during, maybe on mobile but much better on a laptop:
+Tools for pre-trip planning, might exist on mobile but much better on a laptop:
 
-* Roadtrippers has a reasonable POI database that lets you map out your route, and find interesting things within x miles of your existing route that you may want to add. It's helpful to get distances and time estimates, compared to spending hours fiddling with Google Maps. However, they recently lowered the number of locations you can add to a 'trip', so the free version might not be so useful anymore. (I actually paid a discounted price for a year's subscription using a coupon code from the targeted email they sent to users who would be affected by this change.)
+* Roadtrippers has a reasonable POI database that lets you map out your route, and find interesting things within x miles of your existing route that you may want to add. It's quite helpful to get distances and time estimates between stops, compared to spending hours entering and re-entering destinations in Google Maps while iterating on the itinerary. However, they recently lowered the number of points you can add to on a single 'trip', so the free version might not be so useful anymore. (I actually paid up the discounted price for a year's subscription using a coupon code from the targeted email they sent to users who would be affected by this change.)
 
-Mobile apps on the go:
+Mobile apps on the go to use during the trip:
 
 * Google Maps, with offline maps, because cell coverage can be really spotty off the interstates.
-* Waze, for when you're online, because it has better speed limits monitoring/notifications and the crowd-sourced event data.
-* GasBuddy, for finding gas stations and their prices.
-* iExit app might be useful for checking out exits along the interstates, but I didn't spend too much time on those.
-* Spotify offline mode for Premium subscribers. This is a lifesaver, especially if your car doesn't come with Sirius/XM radio. (It usually costs extra.)
+* Waze, for when you're online, because it has better speed limits monitoring/notifications and the crowd-sourced event data. To attempt using it offline, make sure you search for all your destinations while you are still online, and try your luck.
+* GasBuddy, for finding gas stations and their prices. (Waze's gas prices were comically out of date.)
+* iExit app, for checking out amenities available at exits along the interstates, but I didn't spend too much time on those.
+* Spotify offline mode - which requires Premium subscription. This is a lifesaver, especially if your car doesn't come with Sirius/XM radio. (It usually costs extra.) Otherwise, bring many hours of music.
 * Yelp for food reviews - or in sufficient rural places, just finding food, any food.
+* Your favourite weather app
 
-Paper maps are a good idea as a backup: I got the [Rand McNally Road Atlas](https://www.randmcnally.com/product/rand-mcnally-road-atlas#compare) that covers all 50 states and I think the Canadian provinces as well.
+Paper maps are a good idea as a backup though: I got the [Rand McNally Road Atlas](https://www.randmcnally.com/product/rand-mcnally-road-atlas#compare) that covers all 50 states and I think the Canadian provinces as well.
 I was a bit skeptical about covering a state in 2-4 pages, but it actually works out surprisingly well for navigation between towns, though that might be because southern Utah and northern Arizona are so empty.
 
-The standard "Road Atlas" is really huge though, check the dimensions on Amazon.
+The standard "Road Atlas" is really huge, you might want to check out the dimensions on Amazon.
 There are other variants: some come with spiral binding instead of staple binding, some trade the length/width dimensions for thickness.
 Other companies also make state and regional maps, some gas stations (or better - truck stop type places) will stock them.
+
+You might also want to check out the coverage maps from the cell providers, in practice just AT&T and T-Mobile, to get a sense of what the cell signal will be like.
+With that in mind, possibly consider whether to use a domestic SIM from T-Mobile or one of the MVNOs that operate on their network, or to use the Starhub prepaid roaming SIM which currently roams onto both AT&T and T-Mobile once you fix the APN config.
+There are still whole swathes of the country that are Verizon-only or at best have only some expensive local/regional telco, which can be so expensive that even domestic telco subscribers have limited to no roaming privileges on.
 
 ## Finding a car rental
 
 Autoslash.com is what you want.
+For this trip, it found a Hertz (!!) car rental for $30+/day out of LAS, then a week or so later found a Thrifty car rental for just over $20/day, which is really dirt cheap.
+And in both cases, they were fully refundable bookings up till 24 hours prior (and only subject to a nominal fee after that), _and_ were cheaper than the fully prepaid/non-refundable direct bookings.
+(Turns out Thrifty was dirt cheap for good reason, but I'll get to that in a future post...)
 
-You should still compare with the other chains, but if it's not presently giving you a better deal, might be a good idea to make a fully-refundable booking on another site and then get Autoslash to track and try to beat that.
+You should still compare with the major chains and with other aggregators like Kayak, and if Autoslash is not presently giving you a better deal, just make a fully-refundable booking on that another site and then get Autoslash to track it and try to beat that.
+You may have to act relatively fast when Autoslash sends you that email, because prices can vary a surprising amount.
 
 ## Actually driving
 
 Apart from all the items mentioned in the rules of the road, I still got surprised by other things.
 
-* Especially for interstates, the on-ramp is really long and taken really seriously; vehicles must and will accelerate to freeway speeds and slot themselves into a gap in the existing through traffic. Now, this generally works by having the through traffic yield to the merging traffic. But what's mildly surprising to me was that the huge trucks/semis in the right lane will very very urgently change lanes to the left to free up the right lane entirely, when they see another huge vehicle coming up the on-ramp. Result: you have to be extremely alert about passing large vehicles in the left lane, especially when approaching a freeway exit/entrance, and you better step on it if you're halfway through passing and they start signalling left!!! 
+* Especially for interstates, the on-ramp is really long and taken really seriously; vehicles must and will accelerate to freeway speeds and slot themselves into a gap in the existing through traffic. Now, this generally works by having the through traffic yield to the merging traffic. But what was mildly surprising to me was that the huge trucks/semis in the right lane will very very urgently change lanes to the left to free up the right lane entirely, when they see another huge vehicle coming up the on-ramp. Result: you have to be extremely alert about passing large vehicles in the left lane, especially when approaching a freeway exit/entrance, and you better step on it if you're halfway through passing and they start signalling left!!! 
 * A corollary of the above: if there are three lanes on the interstate, even if you're only driving at or just above the speed limit, you might want to consider taking the middle lane instead of the rightmost lane, to avoid the merging traffic. Also, in those cases, it seems that only the slow large vehicles are in the right lane, the speed-limit truckers will be in the middle lane too.
 * Very large vehicles will use their blinkers/hazard lights for two different reasons: (1) slowing down due to something ahead, like a vehicle stopped on the shoulder, or going to stop on the shoulder, (2) I'm going slow and it's clear ahead please overtake me. I have not figured out how to clearly distinguish between these two cases.
 * Vehicles may slow down very sharply at each speed limit sign, especially when it's being gradually lowered as the highway enters a town. This might be rational behaviour: towns may have their own police with their own jurisdiction, and those cops can raise revenues by sitting at the town line and trying to get people who're speeding.
 * Gas stations pumps vary widely in their acceptance of debit cards. My primary card for this trip was a card issued in the U.S. but recently had the billing address changed to my Singapore one - some pumps asked for zip code and accepted my truncated Singapore postcode, others askeed for zip and rejected it, others asked for the debit PIN and accepted that... I didn't test out how a Singapore signature-only credit card would work. This might be a little constraining for the 24-hour or unmanned gas stations. At the manned ones, you can take the card in and ask them to place a hold for X dollars on your card for pump Y - in that case you should specify the dollar amount, otherwise they will run the default hold which might easily be $100. (The default hold/authorization amount is unavoidable when running the card directly at the pump, which may be inconvenient for debit cards. I've seen anything from $1 to over $100.)
 * Gas station air pumps cost money, maybe $1.50 in quarters for perhaps four minutes of air.
-* Some high elevation places permit gas of octane rating [`(R+M)/2` (AKI)](https://en.wikipedia.org/wiki/Octane_rating#Anti-Knock_Index_(AKI)_or_(R+M)/2) of 85 to be sold, compared to 87 everywhere else. Various authorities on the internet appear to disagree on whether this is still a good idea with modern engines. (AKI 87 is around a RON 92.)
-* Gas may contain varying amounts of ethanol, up to 10% or 15%. Some stations might have 0% ethanol gas but it seems to be for some specific use cases, not cars in gneeral.
+* Some high elevation areas/states permit gas of octane rating [`(R+M)/2` (AKI)](https://en.wikipedia.org/wiki/Octane_rating#Anti-Knock_Index_(AKI)_or_(R+M)/2) of 85 to be sold, compared to 87 everywhere else. Various authorities on the internet appear to disagree on whether this is still a good idea with modern engines. I suspect that the car might be ok with some usage of it but you'll probably get lower mileage, so it might be better to just stick to 87? (AKI 87 is around RON 92.)
+* Gas may contain varying amounts of ethanol, up to 10% or 15%. Some stations might have 0% ethanol gas but it seems to be for some specific use cases, not cars in general.
