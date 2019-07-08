@@ -1,8 +1,7 @@
 ---
 title: "Mozilla's Server Side TLS 5.0"
 date: 2019-07-08
-draft: true
-tags:
+draft: false
 ---
 I got distracted into yak-shaving about TLS cipher suites today when I noticed that Mozilla's [Server Side TLS](https://wiki.mozilla.org/Security/Server_Side_TLS) document had been updated -- just 10 days ago, it turns out -- so I figured I'd try and write down some of what I learnt.
 
