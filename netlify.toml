@@ -3,20 +3,20 @@ publish = "public"
 command = "hugo --minify"
 
 [context.production.environment]
-HUGO_VERSION = "0.57"
+HUGO_VERSION = "0.57.1"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
 command = "hugo --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.57"
+HUGO_VERSION = "0.57.1"
 
 [context.branch-deploy]
 command = "hugo -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.57"
+HUGO_VERSION = "0.57.1"
 
 # redirect the domain aliases to canonical domain
 [[redirects]]
