@@ -6,7 +6,15 @@ tags:
 - personalfinance
 ---
 
-The Medisave-cum-Subsidised Outpatient (MSO) scheme is one of the medical benefits schemes in the Singapore public sector, and the scheme that's part of the current benefits package for many public sector employees.
+The short answer: 
+The 2% additional MSO contribution to your Medisave counts towards your CPF Annual Limit, as it's a mandatory contribution for public sector employees.
+You must factor it in when deciding how much in voluntary contributions you can make to your CPF acounts for the calendar year.
+
+The long answer: well...
+
+## MSO
+
+The Medisave-cum-Subsidised Outpatient (MSO) scheme is one of the medical benefits schemes in the Singapore public sector, and is part of the current benefits package for many public sector employees.
 
 In 1994, with the launch of Medishield Plus several years after the introduction of Medishield, the civil service introduced the MSO scheme to replace the Comprehensive Co-payment Scheme (CCS).
 Inpatient medical benefits were removed in favour of an additional 1% Medisave contribution (that you're expected to spend on the new Medishield/Plus), while outpatient benefits had an annual cap applied.
@@ -20,13 +28,13 @@ From 2015, the additional Medisave contribution was revised from 1% to 2%, this 
 The 2% additional Medisave contribution is capped with some specific parameters: up to $140/month on Ordinary Wage (OW), and up to 5x that or $700 on Additional Wage (AW), for a total of $2,380 per calendar year.
 These are rather unexpected numbers that I had to check several times, because when compared with the CPF Annual Limit, it's also a 17-month annual cap but it's based off a cap of $7,000/month instead of $6,000/month.
 
-Also, if you don't use your outpatient subsidy at all, you can get whatever's unused from the first $350 of the subsidy cap credited to your Medisave account as well, for a maximum of $2,730 per calendar year.
+Another interesting thing is that if you don't use your outpatient subsidy at all, you can get whatever's unused from the first $350 of the subsidy cap credited to your Medisave account as well, for a maximum of $2,730 per calendar year.
 
 ## CPF Annual Limit
 
 Ok, so why the heck am I looking at public sector medical benefits?
 
-As part of my year-end personal finance stuff, I was trying to figure out whether these MSO contributions would affect the potential for voluntary CPF contributions under the CPF Annual Limit.
+As part of my year-end personal finance planning for the ending tax year, I was trying to figure out whether these MSO contributions would affect the 'available space' for voluntary CPF contributions under the CPF Annual Limit.
 
 Basically, the Annual Limit is the mechanism to limit the amount of voluntary contributions (VC) that can be made to any individual's CPF accounts within a calendar year.
 Mandatory contributions (MC), as limited by the Ordinary Wage (OW) and Additional Wage (AW) ceilings, are always counted first, then all VC is added on top of it, and **any part of the VC that pushes the total contributions over the Annual Limit** will be rejected and refunded at the start of the next calendar year.
@@ -48,7 +56,7 @@ But why?
 
 ## Legislation for MSO scheme
 
-I am definitely not a lawyer, but reading legalese is like a lot like r eading code, so let's take a layman's look at what it says...
+I am definitely not a lawyer, but reading legalese is like a lot like reading code, so let's take a layman's look at what it says...
 
 The CPF originates from the [Central Provident Fund Act](https://sso.agc.gov.sg/Act/CPFA1953?ValidDate=20191201) (CPF Act).
 
@@ -110,8 +118,6 @@ If you have related employers, they can apply to [combine AW ceilings](https://w
 
 There's an interesting list of exemptions in the [Central Provident Fund (Exemption) Order 2018](https://sso.agc.gov.sg/SL/CPFA1953-S61-2018?DocDate=20180202&ValidDate=20191201), including... some specific sort of employees of the Seventh-Day Adventists?
 
-#### Disclosure / Disclaimer
+##### Disclaimer
 
-As a reminder, while I am a public servant, any views/errors here are my own (though I've tried not to express much of a view in this post), and all information here is derived from publicly available information.
-
-I was going to discuss exactly which details of the MSO scheme are in our contract signing paperwork but I figured better play safe...
+Any views/errors here are my own (though I've tried not to express much of a view in this post), and all information here is derived from publicly available information.
