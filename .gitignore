@@ -1,6 +1,2 @@
-# Hugo default output directory
+# Zola default output directory
 /public
-resources
-
-# macOS
-.DS_Store
