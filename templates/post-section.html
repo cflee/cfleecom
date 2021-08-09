@@ -1,0 +1,15 @@
+{% extends "section.html" %}
+
+{% block content %}
+<article>
+  <h1>{{ section.title }}</h1>
+
+  {{ section.content | safe }}
+</article>
+
+<ul class="homepage-list">
+    {% for post in section.pages %}
+      {{ macros::post_in_list(post=post) }}
+    {% endfor %}
+</ul>
+{% endblock content %}
