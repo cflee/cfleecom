@@ -1,6 +1,8 @@
 +++
 title = "About"
 date = 2015-01-01
+# this should be the lowest weight to come first
+weight = 0
 +++
 
 Hello! This is cflee's home on the internet.
