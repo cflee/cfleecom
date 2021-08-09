@@ -62,6 +62,7 @@
 
       {{ section.content | safe }}
 
+      <h2>Site Sections</h2>
       <ul class="homepage-list">
         {% for section_path in section.subsections %}
           {% set sub_section = get_section(path=section_path) %}

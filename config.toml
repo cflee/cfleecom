@@ -7,9 +7,15 @@ theme = "lightspeed"
 
 compile_sass = true
 
+generate_feed = true
+
 [markdown]
 highlight_code = true
 highlight_theme = "base16-ocean-light"
 
 [extra]
 netlify = false
+
+# footer_links = [
+#     {url = "xyz", name = "XYZ"},
+# ]
