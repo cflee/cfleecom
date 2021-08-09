@@ -58,9 +58,16 @@
       {% endblock header %}
 
       {% block content %}
+      <h1>{{ section.title }}</h1>
+
+      {{ section.content | safe }}
+
       <ul class="homepage-list">
-        {% for post in section.pages %}
-          {{ macros::post_in_list(post=post) }}
+        {% for section_path in section.subsections %}
+          {% set sub_section = get_section(path=section_path) %}
+          <li>
+            <a href="{{ sub_section.permalink | safe }}">{{ sub_section.title }}</a>
+          </li>
         {% endfor %}
       </ul>
       {% endblock content %}
