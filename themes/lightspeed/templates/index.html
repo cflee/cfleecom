@@ -68,6 +68,7 @@
           {% set sub_section = get_section(path=section_path) %}
           <li>
             <a href="{{ sub_section.permalink | safe }}">{{ sub_section.title }}</a>
+            {% if sub_section.description %}<div class="description">{{ sub_section.description }}</div>{% endif %}
           </li>
         {% endfor %}
       </ul>
