@@ -21,10 +21,8 @@
 </article>
 
 <ul class="homepage-list">
-    {% for page in section.pages %}
-      <li>
-        <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
-      </li>
+    {% for post in section.pages %}
+      {{ macros::post_in_list(post=post) }}
     {% endfor %}
 </ul>
 {% endblock content %}
