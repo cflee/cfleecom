@@ -1,9 +1,7 @@
----
-title: "About Me"
-date: 2018-09-01
-# exclude from index, and use special layout without meta, etc.
-type: about
----
++++
+title = "About Me"
+date = 2015-01-01
++++
 
 Hello! This is cflee's home on the internet.
 

@@ -1,6 +1,6 @@
 # cfleecom
 
+```bash
+zola serve
 ```
-# -D, --buildDrafts
-hugo server -D
-```
+

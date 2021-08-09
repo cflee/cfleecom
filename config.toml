@@ -1,30 +1,15 @@
-baseURL = "https://www.cflee.com/"
-languageCode = "en-us"
+base_url = "https://www.cflee.com"
+
 title = "cflee.com"
-theme = "hyde-hyde"
-googleAnalytics = "UA-53003432-1"
+description = "a weblog"
 
-# hyde / hyde-hyde theme
-[params]
-author = "cflee"
-description = " "
-dateformat = "2 Jan 2006"
+theme = "lightspeed"
 
-[params.social]
-email = "myself@cflee.net"
-facebook = "cflee"
-github = "cflee"
-keybase = "cflee"
-linkedin = "chiangfong"
+compile_sass = true
 
-[[menu.main]]
-name = "About"
-identifier = "about"
-weight = 100
-url = "/about/"
+[markdown]
+highlight_code = true
+highlight_theme = "base16-ocean-light"
 
-[[menu.main]]
-name = "Posts"
-identifier = "posts"
-weight = 200
-url = "/posts/"
+[extra]
+netlify = false
