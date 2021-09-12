@@ -2,6 +2,8 @@
 title = "Oracle Cloud: first impressions (II)"
 +++
 
+This continues my first impression snippets as I poke around my "Always Free" OCI Ampere A1 instances.
+
 ## Setting up compute instances
 
 I was originally going to review the Oracle Linux Cloud Developer 8 image, but all the RHEL/CentOS/Oracle Linux differences from Ubuntu/Debian-based OS would distract from the OCI aspect, so I spun up another instance using Ubuntu Linux 20.04.
@@ -12,7 +14,7 @@ Note: In order to use Ubuntu Linux with Ampere A1 instances (aarch64), you need 
 
 To open up inbound traffic to a specific port as part of bringing up a service on your host, you need to sort out the VCN-level stuff (subnet's security list and/or network security group's ingress rules), as well as the OS firewall rules.
 
-Why do we need to specifically configure the OS firewall?
+**Why do we need to specifically configure the OS firewall?**
 Unlike a default Ubuntu setup where traffic is unrestricted by default, OCI configures a bunch of rules on iptables, including an default deny on inbound traffic. 
 It's done directly on iptables without going through ufw (ufw remains disabled by default if you look at `ufw status`).
 You can see the inbound rules with `iptables -L INPUT` or by looking at `/etc/iptables/rules.v4`:
@@ -30,7 +32,7 @@ You can see the inbound rules with `iptables -L INPUT` or by looking at `/etc/ip
 
 This doesn't look too unusual, perhaps just rather prudent to also restrict inbound traffic.
 
-Why aren't these rules configured through UFW?
+**Why aren't these rules configured through UFW?**
 In fact, you're specifically advised not to enable or use UFW, because OCI docs describe a [known issue](https://docs.oracle.com/en-us/iaas/Content/knownissues.htm#ufw) that enabling UFW will prevent the instance from booting, and the stated workaround is to... not use UFW?!
 
 If we keep looking at the configured iptables rules, we see that OCI also adds outbound rules to restrict access to `169.254.0.0/16`, which is fully reserved by OCI:
@@ -74,7 +76,7 @@ We could summarise it as such, with an implicit deny for all other outbound acce
 What stands out here are the rules with the `uid-owner 0` restriction, that only allow "a process with the given effective user id" to contact those endpoints.
 Currently the [essential firewall rules](https://docs.oracle.com/en-us/iaas/Content/Compute/References/bestpracticescompute.htm#Essentia) docs only mention `169.254.0.2/32` and `169.254.2.0/24`, but there are four CIDRs listed with destination port tcp/3260 for iSCSI, and another endpoint that has the http port restricted as well.
 
-Why is iSCSI access required?
+**Why is iSCSI access required?**
 The docs state that it's used to serve the boot and block volumes, but... really?
 That is rather unexpected.
 Looking at `mount` and `iscsiadm -m session`, the boot volume looks like it's "just" presented as `/dev/sda`, nothing fancy, and no iSCSI involved.
@@ -99,7 +101,8 @@ If a specific instance is known to not require iSCSI volume attachments, it woul
 
 Since the need to accommodate iSCSI volume attachments is unavoidable in general, perhaps it's worth looking into whether those rules can be safely fitted into UFW, to allow users to `ufw enable` without breaking the iSCSI connections.
 
-What did I want to do in the first place before all this yak-shaving? Oh, open up some udp ports for [mosh](https://mosh.org/):
+**What did I want to do in the first place before all this yak-shaving?**
+Oh, open up some udp ports for [mosh](https://mosh.org/):
 
 ```
 # insert into /etc/iptables/rules.v4 before the -A INPUT -j REJECT line
