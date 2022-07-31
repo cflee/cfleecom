@@ -24,7 +24,7 @@ The Spacerock chalk is really fine.
 
 ## Climbing gyms
 
-### [Boulder Movement](https://www.boulderm.com/) (Rochor)
+### Boulder Movement (Rochor)
 
 Third Boulder Movement gym visit!
 
@@ -165,6 +165,108 @@ There was another section where there were a bunch of tiny starting handholds al
 I was mostly cycling between the upstairs vertical section and the other slight-overhang section, depending on which section was less crowded, and ended up being able to send 2 bars more often than not, while being really stumped by a lot of 3 bar problems and only sending two.
 There were some problems that I ended up getting to watch somebody else send (which isn't too often unless somebody is warming up, most folks seem to be climbing in the 5-6 bar range) and I was still quite mystified afterwards.
 
+### Climb Central (Funan)
+
+Time for some top-roping.
+
+Climb Central charges a $10 registration fee.
+The website only lists the "first timer sets" that at $35 include both registration and a single entry pass, but on-site they have registration listed separately on their price chart at $10, so you can use someone's multipass and then pay $10 for registration.
+(CC requires the owner to be present during check-in to use their multipass.)
+This amount also covers the shoe and harness rental ($7), so you could think of it as $3 for registration and the mandatory safety briefing, or more if you bring your own shoe/harness.
+
+The safety briefing will cover how to clip in to top-rope, how to belay on top-rope using their ground anchored tubular belay devices (and implicitly their fancy [BelaySAFE](https://belaysafe.com/) braking anchor), and how to clip-in and use the auto-belay devices.
+They teach the hand-over-hand technique for belaying.
+They will ask you to immediately practice/demonstrate whatever was just taught so I guess that is some form of verification.
+
+I suppose they think their braking anchor at the top is sufficient to not need further instruction or practice, like having climber and belayer practice a fall?
+
+Given that, it is really quite mystifying that it's a couple minutes training to use their ground-anchored tubular device, but to use your own belay device suddenly you need to attend a top-rope course (probably the 7-hour SNCS Level 1 class, but strangely that class by itself doesn't even teach you how to use an assisted braking device) _and_ you have to have and know how to use an assisted braking device (ABD) _and_ you have to book a $10 top-rope belay verification session which has a fixed schedule twice a month and only has about 45 slots a month.
+I don't really understand how you can screw up worse just by using your own belay device; the worst case should still be that you have no hand on the braking end of the rope?
+
+There is a separate area dedicated for lead climbing, with a different carpet colour that non-lead climbers are supposed to stay out of.
+This is a different setup from T-Hall, which seems to have the bolts and quickdraws set up on all (or nearly all) the top-rope lanes so any of them could be used for lead climbing.
+
+This is my first time on top-rope, since I was only on the auto-belays at T-Hall.
+The top-rope walls here are about two storeys tall, and feels roughly the same height as T-Hall.
+Apart from the increased endurance required due to the sheer vertical distance to travel compared to bouldering, it really is quite different to be able to hang and rest if you want to, and also to know that slipping or falling should only be a short drop/swing without a big drop to the crash pad and without that brief moment waiting for the auto-belay to slow you.
+I feel like I was doing things that I wouldn't do without that rope, like if it was on a bouldering wall or if I was on auto-belay, partly because of that tight rope and partly because sometimes the rope feels like it's slightly helping me stick to the wall.
+
+There is probably something to work out between climber and belayer about how much slack or how tight the rope should be, and also _when_ it should be tight.
+CC simply tells you to pretty much have no slack, but I think the when is a question, like should we wait until someone is stable in the next position before taking up the slack?
+I think I was a bit overenthusiastic about keeping the rope tight and quickly the first time I was belaying, to the point that it was probably "overly supportive".
+
+One thing about this location is that the music speakers are mounted at one storey up, so it's kind of difficult to hear your belayer.
+It did not help that some restaurant one level up is currently boarded up for renovation and there were bursts of drilling noise.
+I guess the belayers have to be generally good at reading body language or signals.
+(Don't be like me and accidentally interpret some signal from the climber while hanging as "lower me" when it wasn't.)
+This seems less of a problem for top-roping, I am not sure how that would work for lead climbing which seems to need more communication, maybe they just yell more, weird as it is to do that indoors in a shopping mall.
+
+While the gym is supposed to be open until 23:00 on weekdays, strangely enough it suddenly emptied out really fast slightly past 22:00 and out came the vacuum cleaners.
+
+Afterwards I was reading up about how belaying can go wrong and how ABDs can be misused, and now I am a little bit more concerned about whether the belayer has correct technique and instincts.
+The braking anchor that CC uses does seem to have some effect, because it does feel like it's resisting when you try to pull the climber's end of rope down without placing your full bodyweight on it, so it's something to think about even more when being belayed at other gyms.
+Given that each ABD has slightly different recommended usage and thus ways to misuse it, you'd need a bit more knowledge on hand in order to be able to quiz or observe the belayer and see if everything is correct.
+
+Bootstrapping this trust between the climber and belayer seems difficult, especially in a pair since it's difficult to observe the belayer as the climber.
+It would be cool if there was a setup with a weighted mannequin or something that can be raised and then dropped (whether as a surprise or not) for belayers to practice catching with -- it was quite scary to watch some videos where some climbing gear manufacturer (Black Diamond or Petzl I think) get actual humans to enact various fall scenarios.
+The next best alternative seems to be to have a third person to at least observe the belayer, but even then if you don't want to risk a fall that will still be limited to just checking the routine belaying habits.
+
+Top-roping feels quite hard compared to bouldering because of the increased endurance, I don't really remember if I even completed a level 1 route.
+It also feels like the feedback/learning loop is a lot longer because it takes so much longer for each try, and then it's 2x that to swap with your buddy.
+You do get to hang there and think/try something tricky for a while, but well, sometimes "shag cannot think" (people who don't know Singlish must be so confused by this use of the word) and also don't really want to take too much time on your belayer and on the lane.
+
+It does seem that top-roping should be somewhat safer than bouldering, at least when nothing goes wrong with the belaying.
+Or at least, I would expect that top-roping should result in fewer incidents, since most falls are caught, but when the falls aren't caught then the severity may be rather higher due to the heights.
+Bouldering has a lot more actual falls and jumps where you meet the crash pad, and each one of those is an opportunity to result in injury, but given the lower heights in most cases those injuries will hopefully be less severe than those of much larger heights.
+I don't know if that actually adds up to result in safer or not, it could depend on whether you prefer rarer but more severe injuries, or more common but less severe injuries.
+
+### Boulder World (Singpost)
+
+My first impression of this gym as I walk in and see the really long shoe shelves, counter and the big training board out front is that it looks pretty spacious... then you get to the main area and then it still looks spacious but just really _dark_.
+
+The walls are as tall as they get, probably close to 4.5m.
+But the ceiling has the bog standard ceiling grid, with the fluorescent tube squares, and the density of the light fittings don't seem to compensate for the increased ceiling height compared to offices.
+The positioning of the lights are also seemingly not adjusted for the wall positions, so there was one weirdly shaped "The Cave" corner that felt unlit.
+
+It also doesn't help that parts of the wall are painted black or some other dark colour, especially when the wall isn't a straight line top-to-bottom and has protruding sections, and it's the lower section that's painted a dark colour.
+
+The problem tags are thin lines against a black background, which are nearly impossible to read at a distance.
+The grading is indicated as coloured circle-segments around the circumference to show 0 through 8 segments (bars), with a fixed colour for each number so in theory you could either count the bars or look at the colour, but they're incredibly thin and difficult to make out unless you walk up close.
+This feels even harder to read than the tape at Kinetics.
+
+The whole place just generally feels quite gloomy.
+Now I understand why many gyms have spotlight style lights installed to project light forwards and at an angle.
+
+The main area has wall to wall crash pads, which is nice, though the slab area has a narrow and long patch of exposed floor in the middle, probably a function of fixed sizes for the pads or the patch being too narrow to be able to provide good support.
+They use the velcroed together grid of squares style, visually quite similar to Kinetics, though without the weird weak spots near the climbing walls.
+They do retain the issue of having weird spots at the edges away from the wall / close to the floor.
+At the slab wall area there was a small section that seemed to have a messed up cover and had foam visible.
+
+They have three types of training boards.
+Whichever adjustable board at the front near the counter seems to visibly wobble when you catch on to holds in the top few rows.
+
+The holds (and walls) generally seemed quite chalked up.
+At the slab area, I had a lot of problems with one particularly slippery foothold (on a 2 bar problem) that was actually blackened by what I am now told is shoe rubber.
+
+It is quite A Choice for the men's toilet to have no door and instead one of those half-height split curtains (great, no contact required!), and then what feels like nearly direct line-of-sight from that doorway into the changing area.
+If there was a divider or something to break the line-of-sight that I missed, I'm sorry, but if there wasn't they really should put something in.
+
+On a Sunday, it wasn't too busy when I arrived around 12:15, then it really emptied out as people mostly left for lunch, and then it suddenly really filled up after 15:00.
+I don't know if it is not too crowded on Sunday mornings, or if people here just leave earlier for lunch.
+
+The crowd here seems to climb pretty hard.
+Instead of having more people climbing around what I'm going to assume is the V4-V5 range (assuming that many people get stuck here) and few in V6+ and beyond, the proportion of the crowd climbing V6+ just seems much higher here.
+I feel like there were fewer people warming up on what I'm working on because they start with harder problems 🙃
+and also quite some number of people talking about 1Q and 2Q problems at Boruda.
+
+The grading scale here is also 0 to 8 bars, same range as Fit Bloc.
+I also think that the grading at least for the 0 to 2 or maybe up to 3 bar range is similar to Fit Bloc, in that I currently find 1 bar easy, 2 bar mostly doable with some work (but with trouble on overhang), and 3 bar basically very difficult and I might only send one of those.
+
+The distribution of problems here is not skewed to the beginner end, it feels more like Kinetics in that it's more evenly distributed or at least heavier in the intermediate ranges.
+I think it will be interesting to see if they adapt this strategy for their upcoming Paragon location.
+
+Overall, this Boulder World reminds me a lot of Kinetics, except larger, taller and darker, and similarly better for intermediate and up climbers.
+
 ### Rough sizing of gyms
 
 I'm trying to guesstimate the sizing from my impressions by considering the wall length of the "main" bouldering sections, excluding comp style walls, training stuff (moonboards, endurance walls), high walls with autobelay.
@@ -183,6 +285,8 @@ Larger end:
     - excluding upstairs endurance wall and training area
 1. Boruda
     - excluding training area
+1. Boulder World
+    - excluding three boards
 
 Smaller end:
 
