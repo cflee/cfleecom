@@ -4,10 +4,12 @@ title = "Next ten sessions at climbing gyms"
 
 ## Meta
 
-- habit
-- not a chore
-- technique (especially since lacking brute force)
-- afraid of premature injury
+Some things that were swirling round my head while starting into these next ten climb sessions:
+
+- I want to see if I can make this a habit
+- In particular, it needs to not feel like a chore -- and it doesn't so far (at least for this stage, when I'm just climbing and not really 'training')
+- Focus on technique, especially since lacking brute force
+- Quite afraid of premature injury derailing this whole thing
 
 ## Gear
 
@@ -20,7 +22,7 @@ Between the two, Campers' Corner's shoe section is very spacious and you can tak
 
 I ended up getting my shoes at Campers' Corner.
 
-The Spacerock chalk is really fine.
+The Spacerock chalk is really fine and feels pretty nice.
 
 ## Climbing gyms
 
@@ -209,7 +211,7 @@ Given that each ABD has slightly different recommended usage and thus ways to mi
 
 Bootstrapping this trust between the climber and belayer seems difficult, especially in a pair since it's difficult to observe the belayer as the climber.
 It would be cool if there was a setup with a weighted mannequin or something that can be raised and then dropped (whether as a surprise or not) for belayers to practice catching with -- it was quite scary to watch some videos where some climbing gear manufacturer (Black Diamond or Petzl I think) get actual humans to enact various fall scenarios.
-The next best alternative seems to be to have a third person to at least observe the belayer, but even then if you don't want to risk a fall that will still be limited to just checking the routine belaying habits.
+The next best alternative seems to be to have a third person to at least observe the belayer, maybe also hang on to the braking end, but even then if you don't want to risk a fall that will still be limited to checking the routine belaying habits.
 
 Top-roping feels quite hard compared to bouldering because of the increased endurance, I don't really remember if I even completed a level 1 route.
 It also feels like the feedback/learning loop is a lot longer because it takes so much longer for each try, and then it's 2x that to swap with your buddy.
@@ -248,6 +250,11 @@ Whichever adjustable board at the front near the counter seems to visibly wobble
 The holds (and walls) generally seemed quite chalked up.
 At the slab area, I had a lot of problems with one particularly slippery foothold (on a 2 bar problem) that was actually blackened by what I am now told is shoe rubber.
 
+It feels a bit short of downclimb jugs.
+They exist, but I keep feeling like it's not enough, especially given that problems here are generally higher grade so you are much less likely to have some nice holds nearby that you can use.
+Maybe the climbers here are too pro to need special holds to downclimb on?
+I vividly remember completing a 3 bar on the slab wall and wanting to downclimb... but that's at my limit so the holds are hard for me, problems on the left were harder and sparser, and the problem on the right was an easy 1 bar... except that the last holds were at my feet level so I could step across but the wall was just blank...
+
 It is quite A Choice for the men's toilet to have no door and instead one of those half-height split curtains (great, no contact required!), and then what feels like nearly direct line-of-sight from that doorway into the changing area.
 If there was a divider or something to break the line-of-sight that I missed, I'm sorry, but if there wasn't they really should put something in.
 
@@ -267,18 +274,142 @@ I think it will be interesting to see if they adapt this strategy for their upco
 
 Overall, this Boulder World reminds me a lot of Kinetics, except larger, taller and darker, and similarly better for intermediate and up climbers.
 
-### Rough sizing of gyms
+### Oyeyo
+
+This is quite a gym.
+
+The physical space feels even smaller than Kinetics, narrower at least.
+It's like a narrow alley with walls on both sides, then a break for a really tiny locker/toilet space, and a small endurance wall and training area at the back.
+There's also a small roof section in the middle of the main climbing area.
+Basically all this adds up to mean that you are constantly getting in somebody else's way, even more so than at Kinetics.
+It's like a constant dance around the space, if you sit down for anything longer than taking off your shoes you'll probably be asked to move really soon.
+
+If you're falling or jumping off the wall you probably want to try to stick the landing instead of rolling, because chances are you will collide with someone.
+Better clear and then ask someone to help keep clear an area if you're trying some big move that you know will send you flying.
+It's serious enough that they have a "no phones on the mat" (which is basically the whole climbing area, since it's effectively mats wall to wall) policy.
+
+The crash pads also are the joined together grid type, but no issues with the foam coverage at the edges next to the walls.
+
+The hold density is also really high.
+In the first-timers briefing they directly point out that the hold colours will overlap, and just... look at the shape of the holds to figure out which problem they belong to.
+I found this pretty tricky when the nearby problems' grades weren't that far apart, and especially an issue for tiny footholds.
+Sometimes a colour difference is just the hold being chalked up.
+
+They use the "French" grading system and starts at 5+.
+Their grade comparison chart says the next level up of 6a is equivalent to V1 to low end of V2 in the "US" system.
+Taking that at face value, at least at this level it feels a lot stiffer to me than problems at other gyms that also have a comparison to the Hueco system.
+But it may also be a matter of style -- quite a few of the problems at 6a were using rather crimpy holds which I had huge trouble with, having not done much of that so far.
+
+I managed a few 6a problems but none of the crimpy ones.
+
+Definitely seems like an more "intermediate" level climbing place, though I guess if you're a beginner at any of this sort of places you just need to work harder on fewer problems and get better faster.
+
+### Boulder Planet (Sembawang)
+
+They've recently done some kind of tie-up with Boruda so that their pricing is all aligned and passes interchangeable now.
+Also, marking this as Sembawang to distinguish from the new outlet that they're opening in Tai Seng later this year.
+
+Let's get this out of the way first -- Sembawang Shopping Centre is really out of the way.
+I took a bus from Yishun MRT, and even that bus ride took quite a while.
+An alternative is to walk from Canberra MRT, but it's quite a walk.
+If you're already somewhere in the north, great, but for everyone else this is likely quite ulu.
+
+Relatively big and spacious feeling.
+They say it's 1100 sqm floor area and 500sqm of climbing surface.
+The walls are mostly not too overhangy, and in fact the amount of slab walls was a little surprisingly high.
+There's a long comp wall at the far end.
+
+The toilet/showers seem clean enough.
+There is a small combination locker room changing room type of area, which sounds like a nice idea, except that sometimes people then sit around at the changing bench section thumbing their phones, which is annoying because that's exactly the bit of the space that has completely no line of sight to the doorways.
+
+The store area seems to have quite a wide selection of Tenaya and Evolv climbing shoes, as well as a couple racks of apparel.
+They also are currently the only place around that you can buy Spacerock chalk by the tin ("capsule"), and also buy directly as a loose refill without packaging (either into the tin or I suppose you should be able to bring any container since there's a weighing scale; no discount, still $60/kg).
+
+I eventually managed quite a few level 3 problems but zero dice when trying the level 4 problems.
+There's this one problem that probably required a heel hook that I'm still thinking about.
+
+Overall, not bad but also nothing that would tempt me into repeating the long trip out to Sembawang.
+
+### Boruda
+
+Second visit, this time without the crampedness of having a chunk cordoned off for wall stripping.
+
+On a Thursday evening, there was a big group of uni students in climb team t-shirts hogging one of the 'a' sections, I was checking the schedule afterwards and it was probably because it was the newest set.
+They eventually moved off to the 'b' sections and then all landed at the spray wall for the rest of the evening.
+This left the rest of the gym feeling much less crowded, definitely less so than the previous visit on a Wednesday evening.
+
+Small footholds high up on the slab wall are still quite scary but at least this time I didn't have to contend with the rental shoes.
+
+It's been 5 weeks since the previous visit, this session felt like not much progress.
+I seem to have gone from some 8Qs to most 8Qs, but only managed two 7Qs.
+
+This session was set to a playlist entirely of anime (?) music.
+
+I forgot to check if the giant teddy bear is still lurking around.
+
+### Boulder Movement (Tai Seng)
+
+Fourth and last of the Boulder Movement gyms that I'll visit for now.
+
+This visit took place after BM's announcement of the Suntec gym being pivoted to a Flux-level gym (V4 and up), and the subsequent quieter messaging changes to position Downtown as best for beginners, and the other gyms as having a balanced offering.
+I don't know if this has affected the routesetting here yet.
+
+The gym in a ground level unit accessed externally and not through the mall interior, it's a very rectangular space.
+Since there's line of sight everywhere, the staff member manning the counter basically can hang out elsewhere in the gym and just bounce back to the counter when someone comes in or the phone rings.
+
+On a Sunday early slot (10:00-14:30), it was only about half full, perhaps 25+ climbers at peak (the current cap is 45).
+This was a good number, you could find a gap somewhere and slot in, or just join in the rotation somewhere without too much difficulty.
+I arrived around 11:20 and there were still some folks streaming in after that, then some folks left from 12:00 onwards, and the crowd got really thin from 13:30.
+
+The wall angles are slightly more varied than BM (Downtown) with a cave area, but probably still not as much as Bugis and Rochor.
+There is an endurance wall over at one end, I don't know if it's more angled than usual but at the end of the session I basically barely manage 5 moves on the easiest-looking circuit so... it feels hard.
+
+I only managed to count problems for about half to two-thirds of the gym, so here's the grade distribution for the Golden Hour and Cave sections, excluding the Slab and Straight Face sections:
+
+| Grade | Count |
+|:---|:---|
+| 1-4 (VB) | 0 |
+| 5-8 (V0) | 0 |
+| 9-12 (V1) | 7 |
+| 13-16 (V2) | 12 |
+| 17-20 (V3) | 14 |
+| Flux 1 (V4) | 2 |
+| Flux 2 (V5) | 2 | 
+| Flux 3 (V6) | 0 |
+| Flux 4 (V7) | 1 |
+| Flux 5 (V8+) | 0 |
+
+(Aggregated according to their "V-grade" per their chart.)
+
+I don't think the distribution was too different in the remaining sections, perhaps one or two V0 and at least one V6, and nothing about V7.
+So they don't really have ladders (the lowest grade I recall seeing was a 7, that was not obviously a ladder) and quite heavy in the V2-V3 range.
+
+The "setter's choice" problems that I could manage were quite interesting, a balance-y 14, and a 15 that ended with two really high steps up to basically hand level.
+
+It's been 4+ weeks since the last visit to a BM, so assuming that the grading is consistent, some small progress in being able to send some easier V2s (a handful of 14s and some 15s) compared to trying and mostly failing on V2s last time.
+But of course grading is subjective, and I got completely stumped by a 13 too, so it's not like I can consistently do everything below 14 yet.
+
+The playlists at BMs so far have generally been much closer to my speed.
+At least I see much more likely to end up tapping my feet to it occasionally.
+
+## Rough sizing of bouldering gyms
 
 I'm trying to guesstimate the sizing from my impressions by considering the wall length of the "main" bouldering sections, excluding comp style walls, training stuff (moonboards, endurance walls), high walls with autobelay.
-I'm excluding comp style walls in particular from this comparison because it makes the variance in problem density too high relative to the wall length.
-I am very sure I will get some parts of the order wrong, sorry in advance!
+I'm excluding comp style walls in particular to get the 'space' sense closer to the number of problems.
 
-Larger end:
+I am very sure I have gotten some parts wrong, it's just guesses!
+
+**Very large:**
 
 1. Boulder+ (The Chevrons)
     - excluding comp wall and training area
 1. BFF Climb (Bendemeer)
     - excluding high walls, two moonboards, endurance wall
+1. Boulder Planet (Sembawang)
+    - excluding comp wall
+
+**Large:**
+
 1. Fit Bloc (Kent Ridge)
     - excluding high walls, moonboard, endurance wall, other spaces
 1. Boulder+ (Aperia)
@@ -288,23 +419,66 @@ Larger end:
 1. Boulder World
     - excluding three boards
 
-Smaller end:
+**Medium to Small:**
 
 1. Boulder Movement (Rochor)
     - excluding training board
 1. Fit Bloc (Depot Heights)
     - excluding training board
+1. Boulder Movement (Tai Seng)
 1. Boulder Movement (Bugis)
-    - I am very split about this... do we count the comp wall or not? I am not sure if the rest of the regular walls exceeds Downtown or not
+    - the comp wall is very long, I'm not sure if the island and arete areas are longer than Downtown or not
 1. Boulder Movement (Downtown)
-    - nothing to exclude
 1. Lighthouse
     - excluding the training half
 1. Origin
-    - nothing to exclude
 1. Kinetics
-    - excluding the high wall
-1. T-Hall
-    - most of the space is for roped climbs, so it's mostly just one stretch of wall right by the entrance, excluding the endurance/training area behind
+    - excluding the roped wall
+1. Oyeyo
+    - especially high density though, feels higher than Kinetics so more problems despite less wall space
 
-Fit Bloc (Kent Ridge) and Kinetics are the gyms that left an impression of especially dense problem setting.
+This last section is Medium to Small because I haven't figured out where to draw the line and call it Small.
+Kinetics and Oyeyo for sure, Lighthouse and Origin probably, BM (Downtown) maybe...
+
+## Misc thoughts
+
+Revisiting some of the points from the top:
+
+I don't know if I can call this a habit yet, but I certainly feel weird if I don't have a plan to go and climb on the weekend.
+If I wake up on Sunday morning and don't have a plan, I'll have a plan shortly.
+At least it feels much closer to a habit and further from a chore, relative to my attempts to slot in even a once-weekly short run -- I did that for two weeks, then just missed the third week (yay public holiday), and didn't even try to make it up afterwards.
+
+I was also a little concerned about whether I'd only be interested to do this as a social activity. 
+While it's definitely nicer to climb with folks (and probably also better for learning to have folks occasionally help troubleshoot), half of this set of sessions were solo and while it can be a little overwhelming when it's super crowded (BFF Climb ugh) I'm still doing more sessions.
+
+I think I would like to get a chalk bucket in hopes that it is a faster and easier way to coat my hands in chalk.
+Or maybe try out using liquid chalk as a base layer, or just try some alcohol (sanitiser without skin moisturiser?) to dry hands out first.
+There are some days when my hands are especially sweaty and it takes ongoing effort to squeeze the chalk ball and swirl hand around the handful of loose chalk I keep in my current bag until it's sufficiently dry.
+Since some places have a stated requirement for chalk balls and/or liquid chalk instead of loose chalk, maybe best to get both just in case they are needed.
+
+I have no regrets buying a pair of climbing shoes.
+I dunno if it's all in my head in the first place, but at least if I don't stick a small hold or slip off a volume now I feel that it's clearly my technique or approach, and not a shoe problem.
+I've definitely seen a few footholds and volumes get even more blackened after I slipped off, that must be why they say that beginners will wear through their first shoe's rubber quickly...
+
+## What's next?
+
+I have visited 16 bouldering gyms (not counting places with top-rope/lead climbing like T-Hall and Climb Central), there are five more bouldering gyms that are currently open that I've yet to visit, and three more that are expected to open sometime this year.
+That's 21 gyms now, and 24 soon!
+That feels like a lot!
+I wonder how all these gyms scrounge up all the routesetters.
+I imagine you can contract out interior design and wall design and maybe training equipment selection, but routesetting is ongoing work and presumably they can't do it remotely!
+
+Of the five currently open, I'll exclude Boulder Movement (Suntec) until I can reasonably make attempts at Flux 1 (V4), so that leaves four for now: BFF Climb (Bukit Timah) and Z-Vertigo in the west, Ark Bloc in the northeast, and b8A in the east.
+(I was considering excluding Ark Bloc since it isn't bouldering-only, but since they don't have roped climbing and it looks pretty large, might still be worth a look.)
+
+Given the locations of the five, I don't think it's likely that they will end up on the gyms that I'd like to frequent.
+For now, I think Boulder Movement will definitely continue to be interesting at least until past V3 (and possibly beyond, I haven't paid much attention to how many Flux level problems they actually set and the variety), which is probably still a long way to go, and I also quite like Fit Bloc and Boulder+.
+
+I'll continue hunting for information about avoiding common climbing injuries.
+The one clear thing so far is that while the full crimp is likely a lot more powerful, the mechanics of it are also that it's much more likely to cause pulley injuries.
+I haven't figured out the dangers of pockets yet so I'm choosing to not touch any smaller than 3 fingers, if I actually see that on the wall.
+Still working on figuring everything else out.
+
+I have been thinking about whether I want to get more into top-rope climbing but the thought of being dropped or dropping someone is really quite scary.
+It seems like it is more of a low likelihood, high severity kind of activity, where incidents aren't as frequent but when they do they can be really bad, compared to bouldering where there's higher likelihood of something happening but the severity is relatively low.
+(At least for indoor climbing!)
