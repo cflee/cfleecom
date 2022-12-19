@@ -11,6 +11,9 @@
     <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}" />
     <link rel="shortcut icon"  href="{{ get_url(path="favicon.ico") | safe }}" />
     <link rel="alternate" type="application/atom+xml" title="RSS" href="{{ get_url(path="atom.xml") | safe }}">
+    {% for item in config.extra.rel_me_links %}
+    <link rel="me" href="{{ item | safe }}" />
+    {% endfor %}
 
     {% set data = load_data(path="public/style.css", format="plain") -%}
     <style>{{ data | safe }}</style>
