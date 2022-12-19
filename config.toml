@@ -19,3 +19,7 @@ netlify = false
 # footer_links = [
 #     {url = "xyz", name = "XYZ"},
 # ]
+
+rel_me_links = [
+    "https://hachyderm.io/@cflee",
+]
