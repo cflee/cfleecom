@@ -6,6 +6,8 @@ _Data as of 6 Aug 2021._
 
 _6 Aug 2023 update: added SPDR MSCI ACWI IMI (IMID), as in Mar 2023 the TER has been cut from 0.40% to 0.17%, undercutting iShares MSCI ACWI (ISAC) at 0.20%. Also updated fund AUMs, though note that these are only per-share class, the underlying funds may be much larger if there is another distributing variant._
 
+_9 Dec 2023 update: added IBKR fractional share support status._
+
 ## Global Equity
 
 This is a non-exhaustive list, only a few ETFs are highlighted.
@@ -23,6 +25,7 @@ For developed markets, large and mid cap, in accumulating form:
 | TER | 0.20% | 0.12% | 0.12% |
 | Net AUM of Fund | USD ~~42.8bil~~ 56.2bil | USD ~~1.1bil~~ 2.8bil | USD ~~0.25bil~~ 1.1bil |
 | Number of holdings | 1563 | 1543 | 2200 |
+| IBKR Fractional Shares | No | Yes | Yes |
 
 There are various distributing funds but they are not cheaper.
 The iShares Core fund is the largest and most popular fund, the SPDR fund is the largest fund at 0.12% (also the other funds at that TER are distributing), and the Vanguard fund is the FTSE index fund.
@@ -41,6 +44,7 @@ A FTSE Developed World fund can be complemented by a FTSE Emerging Markets fund.
 | TER | 0.18% | 0.22% |
 | Net AUM of Fund | USD ~~18.5bil~~ 17.7bil | USD ~~0.14bil~~ 0.4bil |
 | Number of holdings | 2994 | 1863 |
+| IBKR Fractional Shares | Yes | Yes |
 
 An MSCI EM IMI fund is used instead of an MSCI EM fund, as the TER is identical to the MSCI EM funds, so you might as well get a bit more coverage for the same price. (MSCI EM IMI includes emerging markets small cap, on top of MSCI EM.)
 
@@ -56,6 +60,7 @@ For developed and emerging markets, large and mid cap, in accumulating form:
 | TER | 0.22% | 0.20% |
 | Net AUM of Fund | USD ~~11bil~~ 7.6bil | USD ~~2.9bil~~ 8.3bil |
 | Number of holdings | 3618 | 1607+ |
+| IBKR Fractional Shares | Yes | Yes |
 
 (This particular iShares MSCI ACWI fund holds bits of three other iShares funds, so the effective total number of holdings is likely a bit higher than stated here.)
 
@@ -84,10 +89,11 @@ Small cap is the next 14%, to reach about 99% market cap.
 | TER | 0.17% | 0.35% |
 | Net AUM of Fund | USD 0.6bil | USD ~~2.3bil~~ 3.2bil |
 | Number of holdings | 1977 | 3443 |
+| IBKR Fractional Shares | Yes | Yes |
 
 There is no suitable FTSE Global All Cap / Global Small Cap fund.
 
-Combinations:
+### Developed and Emerging Markets, including small cap, combinations
 
 | Funds | TER |  |
 |---|---|---|
