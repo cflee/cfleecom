@@ -1,2 +1,4 @@
-# Zola default output directory
-/public
+# All files in the Zola build output directory
+/public/**
+# except the Cloudflare Pages redirect config file that must be inside
+!/public/_redirects
