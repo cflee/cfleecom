@@ -1,7 +1,7 @@
 +++
 title = "Posts"
 description = "weblog posts"
-template = "post-section.html"
+template = "posts-section.html"
 sort_by = "date"
 weight = 10
 +++
