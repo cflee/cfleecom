@@ -17,8 +17,6 @@
 
     {% set data = load_data(path="public/style.css", format="plain") -%}
     <style>{{ data | safe }}</style>
-    {% set data = load_data(path="public/site-style.css", format="plain") -%}
-    <style>{{ data | safe }}</style>
 
     {% block seo -%}
       <meta property="og:site_name" content="{% block ogsitename %}{{config.title}}{% endblock ogsitename %}">

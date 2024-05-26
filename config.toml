@@ -3,8 +3,6 @@ base_url = "https://www.cflee.com"
 title = "cflee.com"
 description = "a weblog"
 
-theme = "lightspeed"
-
 compile_sass = true
 
 generate_feed = true
