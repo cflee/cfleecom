@@ -1,6 +1,5 @@
 +++
-title = "Posts"
-description = "weblog posts"
+title = "Blog Posts"
 template = "posts-section.html"
 sort_by = "date"
 weight = 10

@@ -1,23 +1,26 @@
 html,
 body {
-	background: #fffaf7;
+	background: #fafafa;
 	color: #2d2d2d;
-	font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+	font-size: 16px;
+	line-height: 1.5;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
 		Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
 		"Segoe UI Symbol";
 }
 a,
-a:visited {
-	color: darkred;
-	text-decoration: none;
-}
+a:visited,
 a:hover {
-	text-decoration: underline;
+	color: #0050d8;
+	text-decoration-color: #0050d8;
+	text-decoration-thickness: 0.0625em;
+	text-decoration-style: solid;
+	text-underline-offset: 1.5px;
 }
 main {
 	margin: auto;
-	max-width: 38rem;
-	padding: 0.8rem;
+	max-width: 50rem;
+	padding: 1rem;
 }
 pre {
 	background: white;
@@ -34,7 +37,7 @@ img {
 }
 .homepage-list {
 	list-style: none;
-	padding: 1rem 0;
+	padding: 0 0;
 }
 .homepage-list li {
 	align-items: center;
@@ -48,8 +51,10 @@ img {
 		width: 100%;
 	}
 }
-
 .homepage-list li .description {
 	font-size: 90%;
 	font-style: italic;
+}
+.homepage-list li time {
+	font-size: 90%;
 }

@@ -8,8 +8,11 @@
 </article>
 
 <ul class="homepage-list">
-    {% for post in section.pages %}
-      {{ macros::post_in_list(post=post) }}
-    {% endfor %}
+  {% for post in section.pages %}
+    <li>
+      <a href="{{ post.permalink | safe }}">{{ post.title }}</a>
+      <time datetime="{{ post.date | date(format="%+") }}">{{ post.date | date(format="%Y-%m-%d") }}</time>
+    </li>
+  {% endfor %}
 </ul>
 {% endblock content %}

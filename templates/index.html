@@ -1,5 +1,4 @@
 {% import "macros.html" as macros %}
-
 <!DOCTYPE html>
 <html lang="en">
   {% block head %}
@@ -15,8 +14,11 @@
     <link rel="me" href="{{ item | safe }}" />
     {% endfor %}
 
-    {% set data = load_data(path="public/style.css", format="plain") -%}
-    <style>{{ data | safe }}</style>
+    {% if current_url and current_url is starting_with("http://127.0.0.1:1111/") %}
+    <link rel="stylesheet" href="/style.css">
+    {% else %}
+    <style>{{ load_data(path="public/style.css", format="plain") | safe }}</style>
+    {% endif %}
 
     {% block seo -%}
       <meta property="og:site_name" content="{% block ogsitename %}{{config.title}}{% endblock ogsitename %}">
@@ -43,13 +45,10 @@
 
     {% block extra_head %}
     {% endblock extra_head %}
-
   </head>
   {% endblock head %}
-
   <body>
     <main id="main" role="main">
-
       {% block header %}
       <header role="banner">
         <h3 style="margin-top:0;">
@@ -92,19 +91,14 @@
         {% endif %}
         {% block taglines %}
         <small>
-          {%- if config.extra.zola or config.extra.zola is undefined -%}Built with <a href="https://www.getzola.org/">Zola</a>{%- endif -%}
-          {%- if config.extra.netlify %} & hosted on <a href="https://netlify.com">Netlify</a>{%- endif -%}
-          {%- if config.extra.zola or config.extra.zola is undefined -%}.<br />{%- endif %}
-          {% if config.extra.maintained_with_love or config.extra.maintained_with_love is undefined%}Maintained with &hearts; for the web.<br />{% endif %}
+          {%- if config.extra.zola or config.extra.zola is undefined -%}Built with <a href="https://www.getzola.org/">Zola</a>.<br />{%- endif %}
           {% if config.extra.footer_tagline %}{{ config.extra.footer_tagline }}{% endif %}
         </small>
         {% endblock taglines %}
       </footer>
       {% endblock footer %}
-
     </main>
     {% block after_main %}
     {% endblock after_main %}
   </body>
 </html>
-
