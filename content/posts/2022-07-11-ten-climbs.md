@@ -1,5 +1,6 @@
 +++
 title = "Ten sessions at ten climbing gyms: first impressions"
+draft = true
 +++
 
 I've recently been trying out indoor bouldering and since it's a public holiday today, it seems like a good time to take stock.
