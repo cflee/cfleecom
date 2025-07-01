@@ -32,6 +32,8 @@ A complication with getting generics or Pharmacy only medication is whether phar
 For example, I've purchased Rinityn (loratadine 10mg) from a Guardian pharmacy in the past, but when I asked one this month they said that it's still in their system but they haven't seen it in stock for the past two years.
 When asked about other generic non-drowsy antihistamines, they had some generic cetirizine but noted that it's "only a few dollars" (probably per 10?) different from Zyrtec-R's on-sale price.
 
+Update (2025-07): I spotted Simtec (cetirizine) on the shelves in 10's and 20's boxes at a Unity pharmacy, it was about half the price ($0.64 - $0.81 per dose) compared to Zyrtec-R (cetirizine) ($1.22 - $1.53 per dose) or Clarityne (loratadine) ($1.16 - $1.52 per dose).
+
 Hospital outpatient and polyclinic pharmacies are a possible alternative to the retail pharmacies.
 
 ### Cetirizine
